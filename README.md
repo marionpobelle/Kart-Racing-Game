@@ -5,7 +5,7 @@ A small kart racing game with a color picker wheel.
 
 ## Development
 
-This game was made with [Unity](https://unity.com/fr).\
+This game was made with [Unity](https://unity.com/fr).
 
 ## Demo
 
