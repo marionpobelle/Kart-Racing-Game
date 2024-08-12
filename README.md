@@ -1,4 +1,4 @@
-# Tempo Sword
+# Kart Racing Game
 ## Summary
 
 A small kart racing game with a color picker wheel.
